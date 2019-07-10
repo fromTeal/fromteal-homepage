@@ -28,9 +28,10 @@
 ## Background: what is "Purpose"
 
 * Humans, as most other things in the world, are complex machines. To understand the world, they usually need to build some machine, understand its inner working, & then use it as a metaphor to understand other machines in the world around them
-        * When people were only able to build simple mechanical machines, they only understood the world as mechanical machines
-        * When people were able to build steam engines, they understood the world as machines burning fuel to use its energy
-        * When people were able to build machines based on software, they understood the world as information processing machines defined by self-reproducing code
+
+    * When people were only able to build simple mechanical machines, they only understood the world as mechanical machines
+    * When people were able to build steam engines, they understood the world as machines burning fuel to use its energy
+    * When people were able to build machines based on software, they understood the world as information processing machines defined by self-reproducing code
 * When trying to understand purpose, we can look at the most complex machines we are able to build, software systems, & try to see whether they manifest the concept of purpose
     * Software systems are written to help people achieve something.
         * I'm currently writing this using a software called FreeMind, whose purpose is to allow people express ideas more easily, by laying them out in a mindmap
