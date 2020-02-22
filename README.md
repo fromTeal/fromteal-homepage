@@ -1,4 +1,4 @@
-# Global organized space for matching people based on purpose
+# The Teal Accelerator
 
 ## Problem statement
 
