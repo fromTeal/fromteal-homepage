@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### What the project is about
+fromTeal is an accelerator program for helping people create new Teal organizations.
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
