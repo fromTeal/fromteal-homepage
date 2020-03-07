@@ -4,17 +4,8 @@ title: Beta program
 permalink: /beta/
 ---
 
-Most of us spend the biggest part of our day somewhere we call work. Doing things we don’t really want to be doing, operating at a fraction of our capacity, just to pay the bills. 
+We're so excited to build this, but we don’t know everything. So we decided to find the kind of people we hope will love our platform and work with them to kickstart their dream project while using the early version of what we’re building. We hope to learn what passionate entrepreneurs really need, and co-create that as we both progress.
 
-We may catch a glimmer of where we’re meant to be here and there - when something moves us or an idea grabs our interest. We may feel some sort of a calling... 
+Our Beta program takes 6 month, during which we help you form a team with people who share in your purpose or passion, and provide you the early tools and infrastructure to start working on your dream project. We’ll be taking constant feedback on our solution as you use it, though we expect it will be helpful from day one too.
 
-At fromTeal, we believe people long to bring something meaningful into the world. We believe that anyone can be an entrepreneur, build what’s calling them, and finally stop dreaming of the next life. 
-
-We are guided by two hypotheses:
-
-1 - We believe that the strongest possible driver in a person is purpose - creating what you feel called to create in the world.
-
-2 - Organizations are most effective when they run bottom-up, made of self-managed teams without an artificial hierarchy. If you've ever taken part in a hackathon, you probably experienced how effective, productive, creative, and joyful the work was. The reason: your team was building something you cared about, on your own terms, with full accountability and freedom for each team member. In our program, we are trying to create organizations that work like a hackathon team, all year round.
-
-We’re doing this by building an online platform to help passionate people connect, create what they feel called to create, and make a living doing it. The platform will offer tools to build organic, bottom-up organizations - facilitating co-leadership, accountability, decision-making, compensation, team gratitude, and more.
 
