@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### What the project is about
-fromTeal is your catalyst to begin working on your purpose and make a living doing it. Use the platform to find collaborators who share your purpose, connect with the people who will benefit from your work, and grow into a human-centric organization with our tools to facilitate co-leadership, accountability, and financial equity.
+fromTeal is your catalyst to begin working on your purpose and make a living doing it. Use the platform to find collaborators who share your purpose, connect with the people who will benefit from your work, and grow into a human-centered organization with our tools to facilitate co-leadership, accountability, and financial equity.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
