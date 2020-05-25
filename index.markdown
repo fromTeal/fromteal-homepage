@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## fromTeal project
-
 Most of us spend the biggest part of our day somewhere we call work. Doing things we don’t really want to be doing, operating at a fraction of our capacity.
 
 We may catch a glimmer of where we’re meant to be here and there - when something moves us or an idea grabs our interest. We may feel some sort of a calling...
